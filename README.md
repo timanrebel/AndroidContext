@@ -25,4 +25,4 @@ function onClose(evt) {
 }
 ```
 
-Android Context will keep track of which Activity is currently active and will fire the `paused` and `resumedz events appropriately, when the app goes into the background / comes into foreground. Does currently not support `pause` and `resume`.
+Android Context will keep track of which Activity is currently active and will fire the `paused` and `resumed` events appropriately, when the app goes into the background / comes into foreground. Does currently not support `pause` and `resume`.
